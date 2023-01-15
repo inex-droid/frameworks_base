@@ -5,4 +5,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Label for current user in power menu options dialog -->
+    <string name="global_action_restart_systemui">Restart SystemUI</string>
+
 </resources>
